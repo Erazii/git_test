@@ -1,0 +1,1 @@
+This is Erazi's first git project!
